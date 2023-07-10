@@ -1,0 +1,12 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/asheweynanet/public_html/asheweynanet_bootstrap
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R fonts $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R php $DEPLOYPATH
+    - /bin/cp -R scss $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    
