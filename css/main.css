@@ -433,7 +433,7 @@ button:focus {
 }
 
 #hero-area .contents h2 {
-  color: #FCFEFF;
+  color: #87C89E;
   font-size: 48px;
   font-weight: 800;
   margin-bottom: 25px;
@@ -449,8 +449,8 @@ button:focus {
 
 #hero-area .contents p {
   font-size: 18px;
-  color: #FCFEFF;
-  font-weight: 400;
+  color: #22645F;
+  font-weight: 800;
   line-height: 30px;
   letter-spacing: 0.5px;
 }
