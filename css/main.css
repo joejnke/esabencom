@@ -728,7 +728,7 @@ button:focus {
 }
 
 #features .box-item .icon {
-  border: 1px solid #22645F;
+  border: 1px solid #f1f1f1;
   text-align: center;
   float: left;
   -webkit-transition: all 0.2s linear;
@@ -769,7 +769,7 @@ button:focus {
 }
 
 #features .box-item:hover .icon i {
-  color: #FCFEFFfff;
+  color: #FCFEFF;
 }
 
 #features .show-box img {
