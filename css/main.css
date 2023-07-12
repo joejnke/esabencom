@@ -426,14 +426,14 @@ button:focus {
 }
 
 #hero-area .contents h1 {
-  color: #22645F;
-  font-size: 48px;
-  font-weight: 800;
+  color: #87C89E;
+  font-size: 34px;
+  font-weight: 500;
   margin-bottom: 25px;
 }
 
 #hero-area .contents h2 {
-  color: #87C89E;
+  color: #22645F;
   font-size: 48px;
   font-weight: 800;
   margin-bottom: 25px;
